@@ -48,7 +48,7 @@ class _SplashviewpageState extends State<Splashviewpage>
           FadeTransition(
             opacity: fading!,
             child: Text(
-              'Fast Deleviry',
+              'Fast Delivery',
               style: TextStyle(
                   fontFamily: 'Anton',
                   fontSize: 44,
